@@ -25,7 +25,7 @@
   <a href="mailto:youremail@gmail.com">
     <img src="[https://img.shields.io/badge/Gmail-D14836](https://www.linkedin.com/in/mohd-yaseen-/)?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://linkedin.com/in/YOUR_LINK">
+  <a href="[https://linkedin.com/in/YOUR_LINK](https://www.linkedin.com/in/mohd-yaseen-/)">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
