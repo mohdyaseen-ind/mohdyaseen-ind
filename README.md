@@ -22,3 +22,8 @@
 💻 languages: javascript, python, html, css
 ⚛️ frontend: react, next.js, tailwindcss
 🔧 tools: git, github, vscode
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohdyaseen-ind&show_icons=true&theme=radical" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdyaseen-ind&layout=compact&theme=radical" height="180"/>
+</p>
