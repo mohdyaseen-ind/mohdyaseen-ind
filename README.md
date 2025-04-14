@@ -2,7 +2,7 @@
 <p align="center">
   🧠 cs + ai undergrad | 🛠️ web dev | 🖤 clean code & aesthetic builds<br />
   <i>i don’t code for trends, i code for impact.</i>
-<img src="https://media.giphy.com/media/l1J9K9niXeXz3Hk1u/giphy.gif" width="500"/>
+<img src="[https://media.giphy.com/media/l1J9K9niXeXz3Hk1u/giphy.gif](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x6bzU1aTZqbTV6OTFkcHhzbzlzcWlyczR2dDdqdWQ2MXEzYjNheSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q6RoNkLlFNjaw/giphy.gif)" width="500"/>
 </p>
 ---
 
