@@ -23,7 +23,8 @@
 ⚛️ frontend: react, next.js, tailwindcss
 🔧 tools: git, github, vscode
 
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohdyaseen-ind&show_icons=true&theme=radical" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohdyaseen-ind&layout=compact&theme=radical" height="180"/>
+  <a href="mailto:youremail@gmail.com"><img src="https://img.shields.io/badge/gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/YOUR_LINK"><img src="https://img.shields.io/badge/linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
