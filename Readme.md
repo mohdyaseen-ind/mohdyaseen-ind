@@ -12,7 +12,7 @@
 - 🚀 deep into **Next.js**, **React**, and frontend flow  
 - 🎨 obsessed with UI that *feels* right  
 - 🧠 i explain things in the **lightest, chillest** way possible—teaching that *actually* makes sense  
-- 🔁 learning daily, always refining  
+- 🔁 learning daily, always refining 
 
 ---
 
