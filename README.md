@@ -2,7 +2,7 @@
 <p align="center">
   🧠 cs + ai undergrad | 🛠️ web dev | 🖤 clean code & aesthetic builds<br />
 </p>
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x6bzU1aTZqbTV6OTFkcHhzbzlzcWlyczR2dDdqdWQ2MXEzYjNheSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q6RoNkLlFNjaw/giphy.gif" alt="Funny Cat Coding" width="300" />
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x6bzU1aTZqbTV6OTFkcHhzbzlzcWlyczR2dDdqdWQ2MXEzYjNheSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q6RoNkLlFNjaw/giphy.gif" alt="Funny Cat Coding" width="200" />
 ---
 
 ### 🌀 about me
