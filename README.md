@@ -26,6 +26,6 @@
     <img src="mohdyaseenind@gmail.com&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mohd-yaseen-/">
-    <img src="https://www.linkedin.com/in/mohd-yaseen-/&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
