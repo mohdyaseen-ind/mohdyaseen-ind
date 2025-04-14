@@ -1,8 +1,7 @@
 <h1 align="center">hey, i'm yaseen 👋</h1>
 <p align="center">
   🧠 cs + ai undergrad | 🛠️ web dev | 🖤 clean code & aesthetic builds<br />
-  <i>i don’t code for trends, i code for impact.</i>
-![Funny Cat Coding](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x6bzU1aTZqbTV6OTFkcHhzbzlzcWlyczR2dDdqdWQ2MXEzYjNheSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q6RoNkLlFNjaw/giphy.gif)
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2x6bzU1aTZqbTV6OTFkcHhzbzlzcWlyczR2dDdqdWQ2MXEzYjNheSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/q6RoNkLlFNjaw/giphy.gif" alt="Funny Cat Coding" width="300" />
 </p>
 ---
 
