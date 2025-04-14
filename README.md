@@ -3,7 +3,7 @@
   🧠 cs + ai undergrad | 🛠️ web dev | 🖤 clean code & aesthetic builds<br />
   <i>i don’t code for trends, i code for impact.</i>
 </p>
-<img class="ml-20" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="500"/>
 ---
 
 ### 🌀 about me
