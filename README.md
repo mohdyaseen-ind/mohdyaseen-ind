@@ -9,7 +9,7 @@
 - 🧑‍💻 crafting meaningful web projects with clean design & structure  
 - 🚀 deep into **Next.js**, **React**, and frontend flow  
 - 🧠 i explain things in the **lightest, chillest** way possible—teaching that *actually* makes sense  
-- 🔁 learning daily, always refining  
+- 🔁 learning daily, always refining
 
 ---
 
@@ -23,9 +23,9 @@
 
 <p align="center">
   <a href="mailto:youremail@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+    <img src="mohdyaseenind@gmail.com&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
   <a href="https://www.linkedin.com/in/mohd-yaseen-/">
-    <img src="mohdyaseenind@gmail.com&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+    <img src="https://www.linkedin.com/in/mohd-yaseen-/&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </p>
