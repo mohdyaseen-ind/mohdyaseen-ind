@@ -2,8 +2,8 @@
 <p align="center">
   🧠 cs + ai undergrad | 🛠️ web dev | 🖤 clean code & aesthetic builds<br />
   <i>i don’t code for trends, i code for impact.</i>
+  <img src="https://media.giphy.com/media/3o6Zt5pZIlfDqHXkG0/giphy.gif" alt="Hello World">
 </p>
-<img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="500"/>
 ---
 
 ### 🌀 about me
