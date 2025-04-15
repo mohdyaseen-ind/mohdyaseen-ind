@@ -25,7 +25,7 @@
 ## 🛠️ Tech Stack
 
 ```bash
-💻 Languages:    JavaScript, TypeScript, Python
+💻 Languages:    JavaScript, Python
 🌐 Frontend:     React, Next.js, Tailwind CSS
 🔧 Tools:        Git, VS Code, Vercel
 📦 Databases:    Firebase, MongoDB
