@@ -27,6 +27,6 @@
 ```bash
 💻 Languages:    JavaScript, Python
 🌐 Frontend:     React, Next.js, Tailwind CSS
-𝌖 Backend:      Node, Express
-🔧 Tools:        Git, VS Code, Vercel
-📦 Databases:    Firebase, MongoDB, MySql
+𝌖 Backend:      Node.js, Express
+🔧 Tools:        Git, Postman, Docker
+📦 Databases:    Firebase, MongoDB, MySql, Prisma
