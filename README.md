@@ -16,7 +16,7 @@
 ## 🌀 About Me
 
 - 🧑‍💻 Crafting meaningful web projects with **clean design & structure**
-- 🚀 Specializing in **Next.js**, **React**, and modern frontend architecture
+- 🚀 Specializing in **Next.js**, **React**, **Node.js**, **Express** and modern fullstack architecture
 - 🧠 Passionate about creating intuitive developer experiences
 - 🔁 Continuously expanding my knowledge in AI and web technologies
 
@@ -27,5 +27,6 @@
 ```bash
 💻 Languages:    JavaScript, Python
 🌐 Frontend:     React, Next.js, Tailwind CSS
+𝌖 Backend:      Node, Express
 🔧 Tools:        Git, VS Code, Vercel
-📦 Databases:    Firebase, MongoDB
+📦 Databases:    Firebase, MongoDB, MySql
